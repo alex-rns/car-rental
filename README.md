@@ -1,24 +1,8 @@
-# README
+# Car Rental Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##Db-design:
+https://app.dbdesigner.net/designer/schema/396653
+####Share (https://dbdesigner.page.link/YRYk2mC42hTdJspT9)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##Trello
+https://trello.com/b/szOBtSht/car-rental
